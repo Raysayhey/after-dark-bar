@@ -2,7 +2,7 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import product1 from '../assets/images/singlemalt_web.jpg';
+import product1 from '../assets/images/singlemalt-web.jpg';
 import product2 from '../assets/images/zigaren.jpeg';
 import product3 from '../assets/images/products-01.jpg';
 
