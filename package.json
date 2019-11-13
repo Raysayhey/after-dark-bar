@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-starter-casual",
+  "name": "gatsby-after-dark",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Casual by startbootstrap",
+  "description": "after dark bar website",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-casual.git"
+    "url": "git+https://github.com/Raysayhey/after-dark-bar"
   },
   "author": {
     "name": "Anubhav Srivastava",
