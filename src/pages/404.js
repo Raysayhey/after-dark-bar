@@ -10,8 +10,8 @@ const IndexPage = () => (
           <div className="col-xl-9 mx-auto">
             <div className="cta-inner text-center rounded">
               <h2 className="section-heading mb-5">
-                <span className="section-heading-upper">Page not found</span>
-                <span className="section-heading-lower">Not a valid URL</span>
+                <span className="section-heading-upper">Seite nicht gefunden</span>
+                <span className="section-heading-lower">keine valide URL</span>
               </h2>
             </div>
           </div>

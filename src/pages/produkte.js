@@ -15,10 +15,10 @@ const IndexPage = () => (
             <div className="bg-faded p-5 d-flex ml-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
-                  Blended to Perfection
+                Whisky
                 </span>
                 <span className="section-heading-lower">
-                  Coffees &amp; Teas
+                 Single Malt
                 </span>
               </h2>
             </div>
@@ -26,17 +26,14 @@ const IndexPage = () => (
           <img
             className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
             src={product1}
-            alt=""
+            alt="after-dark-bar-whisky"
           />
           <div className="product-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
-                We take pride in our work, and it shows. Every time you order a
-                beverage from us, we guarantee that it will be an experience
-                worth having. Whether it's our world famous Venezuelan
-                Cappuccino, a refreshing iced herbal tea, or something as simple
-                as a cup of speciality sourced black coffee, you will be coming
-                back for more.
+                Wir haben für Sie iene AUswahl an Single malt whisky. Gereift in Eichenfässer
+                aus den bekannten Orten der Welt.
+                beschreibung text etc.
               </p>
             </div>
           </div>
@@ -51,10 +48,10 @@ const IndexPage = () => (
             <div className="bg-faded p-5 d-flex mr-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
-                  Delicious Treats, Good Eats
+                 Tabakwaren
                 </span>
                 <span className="section-heading-lower">
-                  Bakery &amp; Kitchen
+                  Zigarren &amp; CBD
                 </span>
               </h2>
             </div>
@@ -62,15 +59,12 @@ const IndexPage = () => (
           <img
             className="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0"
             src={product2}
-            alt=""
+            alt="tabak_cbd_after_dark_bar"
           />
           <div className="product-item-description d-flex ml-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
-                Our seasonal menu features delicious snacks, baked goods, and
-                even full meals perfect for breakfast or lunchtime. We source
-                our ingredients from local, oragnic farms whenever possible,
-                alongside premium vendors for specialty goods.
+                Be uns können Sie Ihre Zigarre oder andere Räucherware beziehen.
               </p>
             </div>
           </div>
@@ -85,10 +79,10 @@ const IndexPage = () => (
             <div className="bg-faded p-5 d-flex ml-auto rounded">
               <h2 className="section-heading mb-0">
                 <span className="section-heading-upper">
-                  From Around the World
+                  Drinks from Around the World
                 </span>
                 <span className="section-heading-lower">
-                  Bulk Speciality Blends
+                  Cocktails 
                 </span>
               </h2>
             </div>

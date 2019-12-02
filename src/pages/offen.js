@@ -12,44 +12,47 @@ const IndexPage = () => (
           <div className="col-xl-9 mx-auto">
             <div className="cta-inner text-center rounded">
               <h2 className="section-heading mb-5">
-                <span className="section-heading-upper">Komme Sie vorbei</span>
+                <span className="section-heading-upper">Kommen Sie vorbei</span>
                 <span className="section-heading-lower"></span>
               </h2>
               <ul className="list-unstyled list-hours mb-5 text-left mx-auto">
-                <li className="list-unstyled-item list-hours-item d-flex">
-                  Sonntag
-                  <span className="ml-auto">Closed</span>
-                </li>
+                
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Montag  
-                  <span className="ml-auto">7:00 AM to 8:00 PM</span>
+                  <span className="ml-auto">16:00 - 22:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Dienstag
-                  <span className="ml-auto">7:00 AM to 8:00 PM</span>
+                  <span className="ml-auto">16:00 - 22:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Mittwoch
-                  <span className="ml-auto">7:00 AM to 8:00 PM</span>
+                  <span className="ml-auto">16:00 - 22:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Donnerstag
-                  <span className="ml-auto">7:00 AM to 8:00 PM</span>
+                  <span className="ml-auto">16:00 - 24:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Freitag
-                  <span className="ml-auto">7:00 AM to 8:00 PM</span>
+                  <span className="ml-auto">16:00 - 3:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Samstag
-                  <span className="ml-auto">9:00 AM to 5:00 PM</span>
+                  <span className="ml-auto">16:00 - 3:00 </span>
+                </li>
+                <li className="list-unstyled-item list-hours-item d-flex">
+                  Sonntag
+                  <span className="ml-auto">geschlossen</span>
                 </li>
               </ul>
               <p className="address mb-5">
                 <em>
-                  <strong>Ankerstrasse 119</strong>
+                  <strong>Ankerstrasse 119</strong> <br />
+                  Eingang an der Müllerstrasse
+                 
                   <br />
-                  Zürich
+                  
                 </em>
               </p>
               <p className="mb-0">

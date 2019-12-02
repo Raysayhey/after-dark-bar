@@ -15,14 +15,13 @@ const IndexPage = () => (
           />
           <div className="intro-text left-0 text-center bg-faded p-5 rounded">
             <h2 className="section-heading mb-4">
-              <span className="section-heading-upper">Fresh Drinks</span>
-              <span className="section-heading-lower">Worthy Cocktails</span>
+              <span className="section-heading-upper"></span>
+              <span className="section-heading-lower">After Dark Bar</span>
             </h2>
             <p className="mb-3">
-              Every cup of our quality artisan coffee starts with locally
-              sourced, hand picked ingredients. Once you try it, our coffee will
-              be a blissful addition to your everyday morning routine - we
-              guarantee it!
+              Cocktail Bar in der Nähe der Langstrasse. Text Text Text.
+              Wir liefern die beste Qualität an Cocktails und Getränke.
+              Grosse Auswahl an Getränken und eine gemütliche Atmosphäre für einen Drink am Abend.
             </p>
             <div className="intro-button mx-auto">
               <a className="btn btn-primary btn-xl" href="/offen">
@@ -40,8 +39,8 @@ const IndexPage = () => (
           <div className="col-xl-9 mx-auto">
             <div className="cta-inner text-center rounded">
               <h2 className="section-heading mb-4">
-                <span className="section-heading-upper">Our Promise</span>
-                <span className="section-heading-lower">To You</span>
+                <span className="section-heading-upper">Diesen teil löschen, schreiben oder ersetzen</span>
+                <span className="section-heading-lower">Text über die Bar</span>
               </h2>
               <p className="mb-0">
                 When you walk into our shop to start your day, we are dedicated

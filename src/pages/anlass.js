@@ -18,23 +18,30 @@ const IndexPage = () => (
               <div className="bg-faded rounded p-5">
                 <h2 className="section-heading mb-4">
                   <span className="section-heading-upper">
-                    Strong Coffee, Strong Roots
+                    Gemütlich an der langstrasse
                   </span>
-                  <span className="section-heading-lower">About Our Cafe</span>
+                  <span className="section-heading-lower">Mietung der Bar</span>
                 </h2>
                 <p>
-                  Founded in 1987 by the Hernandez brothers, our establishment
-                  has been serving up rich coffee sourced from artisan farmers
-                  in various regions of South and Central America. We are
-                  dedicated to travelling the world, finding the best coffee,
-                  and bringing back to you here in our cafe.
+                  Sie können die gesamten Räumlichkeiten der Bar mieten.
+                <br />
+                  - Mindestkonsumation
+                  <br />
+                  - Bedienung
+                  <br />
+                  - Spiele etc. 
+
                 </p>
                 <p className="mb-0">
-                  We guarantee that you will fall in <em>lust</em> with our
-                  decadent blends the moment you walk inside until you finish
-                  your last sip. Join us for your daily routine, an outing with
-                  friends, or simply just to enjoy some alone time.
+                  Wir bieten Ihnen den Rundum Service unserer Mitarbeiter für einen Abend.
+
                 </p>
+                <div className="intro-button mx-auto">
+                
+              <a className="btn btn-primary btn-xl" href="/offen">
+                zu Offen ->  Farbe ändern?
+              </a>
+            </div>
               </div>
             </div>
           </div>
