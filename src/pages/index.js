@@ -2,7 +2,7 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import intro from '../assets/images/intro1.jpg';
+import intro from '../assets/images/after_dark_logo_blau_bg.jpg';
 const IndexPage = () => (
   <Layout activeLink="home">
     <section className="page-section clearfix">
