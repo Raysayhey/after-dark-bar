@@ -2,7 +2,7 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import intro from '../assets/images/after_dark_logo_blau_bg.jpg';
+import intro from '../assets/images/logo_blau.jpg';
 const IndexPage = () => (
   <Layout activeLink="home">
     <section className="page-section clearfix">
@@ -19,13 +19,13 @@ const IndexPage = () => (
               <span className="section-heading-lower">After Dark Bar</span>
             </h2>
             <p className="mb-3">
-              Cocktail Bar in der Nähe der Langstrasse. Text Text Text.
-              Wir liefern die beste Qualität an Cocktails und Getränke.
+              Cocktail Bar in der Nähe der Langstrasse in Zürich. 
+              Wir liefern qualitativ hochwertige Cocktails und Getränke.
               Grosse Auswahl an Getränken und eine gemütliche Atmosphäre für einen Drink am Abend.
             </p>
             <div className="intro-button mx-auto">
               <a className="btn btn-primary btn-xl" href="/offen">
-                Besuchen Sie uns!
+                Besuchen Sie uns! Farbe noch anpassen
               </a>
             </div>
           </div>
@@ -46,8 +46,7 @@ const IndexPage = () => (
                 When you walk into our shop to start your day, we are dedicated
                 to providing you with friendly service, a welcoming atmosphere,
                 and above all else, excellent products made with the highest
-                quality ingredients. If you are not satisfied, please let us
-                know and we will do whatever we can to make things right!
+                quality ingredients. 
               </p>
             </div>
           </div>
