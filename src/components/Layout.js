@@ -37,7 +37,7 @@ class Layout extends Component {
                 { name: 'keywords', content: 'site, web' },
               ]}
             >
-              <html lang="en" />
+              <html lang="de" />
             </Helmet>
             <div className={'page-top'}>
               {!noSiteHeader ? <SiteHeader /> : null}

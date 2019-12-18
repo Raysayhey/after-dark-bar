@@ -2,7 +2,8 @@ import React from 'react';
 
 import Layout from '../components/Layout';
 
-import intro from '../assets/images/logo_blau.jpg';
+import intro from '../assets/images/schwarz_rechts_logo.jpg';
+
 const IndexPage = () => (
   <Layout activeLink="home">
     <section className="page-section clearfix">
@@ -25,7 +26,7 @@ const IndexPage = () => (
             </p>
             <div className="intro-button mx-auto">
               <a className="btn btn-primary btn-xl" href="/offen">
-                Besuchen Sie uns! Farbe noch anpassen
+                Öffnungszeiten
               </a>
             </div>
           </div>
@@ -39,7 +40,7 @@ const IndexPage = () => (
           <div className="col-xl-9 mx-auto">
             <div className="cta-inner text-center rounded">
               <h2 className="section-heading mb-4">
-                <span className="section-heading-upper">Diesen teil löschen, schreiben oder ersetzen</span>
+                <span className="section-heading-upper"></span>
                 <span className="section-heading-lower">Text über die Bar</span>
               </h2>
               <p className="mb-0">

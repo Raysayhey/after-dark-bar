@@ -2,7 +2,8 @@
   padding-top: 5rem;
   padding-bottom: 5rem;
   // background-color: fade-out($primary, 0.1);
-  background-color: #153350db;
+  // background-color: #153350db;
+  // unterer text bg bei Index
   .cta-inner {
     position: relative;
     padding: 3rem;
@@ -12,11 +13,12 @@
       border-radius: 0.5rem;
       content: '';
       position: absolute;
-      top: -0.5rem;
-      bottom: -0.5rem;
-      left: -0.5rem;
-      right: -0.5rem;
-      border: 0.25rem solid fade-out($white, 0.15);
+      top: -1.5rem;
+      bottom: -1.5rem;
+      left: -1.5rem;
+      right: -1.5rem;
+      border: 0.75rem solid fade-out($white, 0.15);
+      //border of text field
     }
   }
 }

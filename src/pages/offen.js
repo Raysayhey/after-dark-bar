@@ -19,27 +19,27 @@ const IndexPage = () => (
                 
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Montag  
-                  <span className="ml-auto">16:00 - 22:00 </span>
+                  <span className="ml-auto">16:30 - 24:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Dienstag
-                  <span className="ml-auto">16:00 - 22:00 </span>
+                  <span className="ml-auto">16:30 - 24:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Mittwoch
-                  <span className="ml-auto">16:00 - 22:00 </span>
+                  <span className="ml-auto">16:30 - 24:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Donnerstag
-                  <span className="ml-auto">16:00 - 24:00 </span>
+                  <span className="ml-auto">16:30 - 24:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Freitag
-                  <span className="ml-auto">16:00 - 3:00 </span>
+                  <span className="ml-auto">16:30 - 5:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Samstag
-                  <span className="ml-auto">16:00 - 3:00 </span>
+                  <span className="ml-auto">16:30 - 5:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Sonntag
@@ -62,7 +62,7 @@ const IndexPage = () => (
                 <br />
                 <a href="mailto:info@afterdark-bar.ch">info@afterdark-bar.ch</a>
                 <br />
-                043 ---
+                043 229 79 19
               </p>
             </div>
           </div>

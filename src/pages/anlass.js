@@ -39,7 +39,7 @@ const IndexPage = () => (
                 <div className="intro-button mx-auto">
                 
               <a className="btn btn-primary btn-xl" href="/offen">
-                zu Offen ->  Farbe ändern?
+                Kontakt
               </a>
             </div>
               </div>
