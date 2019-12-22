@@ -5,6 +5,7 @@ export default function Footer() {
     <footer className="footer text-faded text-center py-5">
       <div className="container">
         <p className="m-0 small">Copyright &copy; LM Trading GmbH</p>
+       
       </div>
     </footer>
   );

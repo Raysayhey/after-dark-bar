@@ -32,7 +32,7 @@ const IndexPage = () => (
             src={product1}
             alt="after-dark-bar-whisky"
           />
-          <div className="product-item-description d-flex mr-auto">
+          {/* <div className="product-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Wir haben für Sie eine Auswahl an Single malt whisky bereit. 
@@ -41,7 +41,7 @@ const IndexPage = () => (
                 
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
@@ -66,7 +66,7 @@ const IndexPage = () => (
             src={product4}
             alt="tabak_cbd_after_dark_bar"
           />
-          <div className="product-item-description d-flex ml-auto">
+          {/* <div className="product-item-description d-flex ml-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Wir haben den wohl besten Champagner an der Langstrasse. 
@@ -74,7 +74,7 @@ const IndexPage = () => (
                 sich überraschen was es heisst einen wirklich guten Champagner zu geniessen.
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
@@ -100,7 +100,7 @@ const IndexPage = () => (
             src={product5}
             alt=""
           />
-          <div className="product-item-description d-flex mr-auto">
+          {/* <div className="product-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Wir legen hohen Wert darauf qualitativ hochwertige 
@@ -109,7 +109,7 @@ const IndexPage = () => (
 
               </p>
             </div>
-          </div>
+          </div> */}
 
         </div>
       </div>
@@ -135,13 +135,13 @@ const IndexPage = () => (
             src={product2}
             alt="tabak_cbd_after_dark_bar"
           />
-          <div className="product-item-description d-flex ml-auto">
+          {/* <div className="product-item-description d-flex ml-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Be uns können Sie Ihre Zigarre oder andere Räucherware beziehen.
               </p>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
@@ -167,7 +167,7 @@ const IndexPage = () => (
             src={product6}
             alt=""
           />
-          <div className="product-item-description d-flex mr-auto">
+          {/* <div className="product-item-description d-flex mr-auto">
             <div className="bg-faded p-5 rounded">
               <p className="mb-0">
                 Wir führen eine riesige Auswahl an Gins und Tonics für den Gin-Tonic 
@@ -175,7 +175,7 @@ const IndexPage = () => (
                 abgestimmten Gin-Tonic zu produzieren.
               </p>
             </div>
-          </div>
+          </div> */}
           
         </div>
       </div>

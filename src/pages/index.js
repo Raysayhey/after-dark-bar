@@ -17,13 +17,15 @@ const IndexPage = () => (
           <div className="intro-text left-0 text-center bg-faded p-5 rounded">
             <h2 className="section-heading mb-4">
               <span className="section-heading-upper"></span>
-              <span className="section-heading-lower">After Dark Bar</span>
+              
+              <span className="section-heading-lower">After Dark</span>
+            
             </h2>
-            <p className="mb-3">
-              Cocktail Bar in der Nähe der Langstrasse in Zürich. 
-              Wir liefern qualitativ hochwertige Cocktails und Getränke.
-              Grosse Auswahl an Getränken und eine gemütliche Atmosphäre für einen Drink am Abend.
+            <h6>
+            <p className="mb-2 ">
+            Wir freuen uns auf ihren Besuch!
             </p>
+            </h6>
             <div className="intro-button mx-auto">
               <a className="btn btn-primary btn-xl" href="/offen">
                 Öffnungszeiten
@@ -41,13 +43,13 @@ const IndexPage = () => (
             <div className="cta-inner text-center rounded">
               <h2 className="section-heading mb-4">
                 <span className="section-heading-upper"></span>
-                <span className="section-heading-lower">Text über die Bar</span>
+                <span className="section-heading-lower">Die Bar</span>
+                
               </h2>
               <p className="mb-0">
-                When you walk into our shop to start your day, we are dedicated
-                to providing you with friendly service, a welcoming atmosphere,
-                and above all else, excellent products made with the highest
-                quality ingredients. 
+              Cocktail Bar in der Nähe der Langstrasse in Zürich. 
+              Wir servieren qualitativ hochwertige Cocktails siwoei eine breite Auswahl an Getränken.
+              Die Bar lädt zu einem Drink ein in gemütlicher Atmosphäre.
               </p>
             </div>
           </div>

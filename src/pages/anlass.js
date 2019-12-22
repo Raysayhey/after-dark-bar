@@ -17,19 +17,16 @@ const IndexPage = () => (
             <div className="col-xl-9 col-lg-10 mx-auto">
               <div className="bg-faded rounded p-5">
                 <h2 className="section-heading mb-4">
-                  <span className="section-heading-upper">
-                    Gemütlich an der langstrasse
-                  </span>
+                  {/* <span className="section-heading-upper">
+                  
+                  </span> */}
                   <span className="section-heading-lower">Mietung der Bar</span>
                 </h2>
                 <p>
                   Sie können die gesamten Räumlichkeiten der Bar mieten.
                 <br />
-                  - Mindestkonsumation
-                  <br />
-                  - Bedienung
-                  <br />
-                  - Spiele etc. 
+                  Gerne geben wir telefonisch oder per E-Mail Auskunft über Mindestkonsumation sowie
+                  weitere Möglichkeiten.
 
                 </p>
                 <p className="mb-0">

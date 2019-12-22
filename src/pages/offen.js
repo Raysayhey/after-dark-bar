@@ -1,4 +1,6 @@
 import React from 'react';
+import Link from 'gatsby';
+
 
 import Layout from '../components/Layout';
 
@@ -60,11 +62,21 @@ const IndexPage = () => (
                   <em>Kontaktieren Sie uns</em>
                 </small>
                 <br />
-                <a href="mailto:info@afterdark-bar.ch">info@afterdark-bar.ch</a>
-                <br />
+                <em>
+                  
+                
+                </em>
+                
                 043 229 79 19
               </p>
-            </div>
+              <br />
+             <div>
+               
+              <a href="mailto:info@afterdark-bar.ch">
+                info@afterdark-bar.ch</a>
+                  
+            </div></div>
+            
           </div>
         </div>
       </div>
