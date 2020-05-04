@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'gatsby';
+// import Link from 'gatsby';   needed for navigation on Site
 
 
 import Layout from '../components/Layout';
@@ -37,11 +37,11 @@ const IndexPage = () => (
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Freitag
-                  <span className="ml-auto">16:30 - 5:00 </span>
+                  <span className="ml-auto">16:30 - 3:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Samstag
-                  <span className="ml-auto">16:30 - 5:00 </span>
+                  <span className="ml-auto">19:30 - 3:00 </span>
                 </li>
                 <li className="list-unstyled-item list-hours-item d-flex">
                   Sonntag

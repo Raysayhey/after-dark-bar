@@ -4,7 +4,6 @@ import Layout from '../components/Layout';
 
 import product1 from '../assets/images/singlemalt-web.jpg';
 import product2 from '../assets/images/zigaren.jpeg';
-import product3 from '../assets/images/products-01.jpg';
 import product4 from '../assets/images/champ_gold_web.jpg';
 import product5 from '../assets/images/cocktail_web.jpg';
 import product6 from '../assets/images/gin_webber.jpg';

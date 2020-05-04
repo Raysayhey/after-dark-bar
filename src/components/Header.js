@@ -1,6 +1,12 @@
 import React, { Component } from 'react';
 import config from '../../config';
 import { Link } from 'gatsby';
+
+import FB from '../assets/img/grau_fb.png';
+import INSTA from '../assets/img/grau_insta.png';
+
+
+
 export default class Header extends Component {
   constructor(props) {
     super(props);
@@ -85,6 +91,27 @@ export default class Header extends Component {
                   Öffnungszeiten
                 </Link>
               </li>
+
+              <li
+                className={`nav-item px-lg-3`}
+              >
+                <a href="https://www.facebook.com/After-Dark-Bar-Z%C3%BCrich-102219657935463/" target="_blank" 
+                rel="noopener norefferer"> <img src={FB} 
+                alt="FB logo" /> </a>
+
+
+              </li>
+
+              <li
+                className={`nav-item px-lg-1`}
+              >
+                <a href="https://www.instagram.com/afterdark_barzh/" target="_blank" rel="noopener norefferer"> <img src={INSTA} 
+                alt="Instagram logo" /> </a>
+
+
+              </li>
+
+              
             </ul>
           </div>
         </div>

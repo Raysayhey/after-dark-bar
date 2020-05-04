@@ -48,7 +48,7 @@ const IndexPage = () => (
               </h2>
               <p className="mb-0">
               Cocktail Bar in der Nähe der Langstrasse in Zürich. 
-              Wir servieren qualitativ hochwertige Cocktails siwoei eine breite Auswahl an Getränken.
+              Wir servieren qualitativ hochwertige Cocktails sowie eine breite Auswahl an Getränken.
               Die Bar lädt zu einem Drink ein in gemütlicher Atmosphäre.
               </p>
             </div>
